@@ -39,7 +39,7 @@
             </h1>
 
             <p class="text-zinc-600 text-lg mb-8 max-w-2xl">
-                {{ config('app.name') }} helps developers create clean, shareable portfolios —
+                The app helps developers create clean, shareable portfolios —
                 perfect for resumes, freelancing, and quick introductions.
             </p>
 
