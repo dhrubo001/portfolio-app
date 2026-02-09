@@ -35,7 +35,7 @@
 
             <!-- Header -->
             <h1 class="text-3xl md:text-4xl font-semibold leading-tight mb-4">
-                Build your short developer portfolio in minutes
+                Build your short developer portfolio in minutes and share to the world
             </h1>
 
             <p class="text-zinc-600 text-lg mb-8 max-w-2xl">
